@@ -1,5 +1,7 @@
 # Giphy-API
 
+https://amlilly.github.io/Giphy-API/
+
 A zoo animal gif-filled fun webpage! 
 
 Click the buttons of the provided zoo animals to render gifs of that animal from Giphy.
